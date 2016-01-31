@@ -1,4 +1,9 @@
 <keymap version="1" name="Daniele" parent="NetBeans 6.5">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="control 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt UP" />
   </action>
@@ -8,4 +13,19 @@
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="ShowContent" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
 </keymap>
