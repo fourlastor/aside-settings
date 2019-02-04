@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="shift alt comma" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="IntroduceTypeAlias" />
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="ShowContent" />
